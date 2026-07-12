@@ -7,16 +7,15 @@
 ### 💻 IT Support Specialist | Aspiring Cybersecurity Professional
 
 🇨🇦 Quebec, Canada
-![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=0e75b6&style=flat) 
+
 <a href="https://salem228h.github.io/salem-hassani-portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge">
 </a>
+![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=0e75b6&style=flat) 
 <a href="https://github.com/salem228h">
   <img src="https://img.shields.io/badge/GitHub-salem228h-black?style=for-the-badge">
 </a>
-<a href="https://github.com/salem228h">
- 
-  </a>
+
 </div>
 
 ---
