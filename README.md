@@ -1,5 +1,5 @@
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=0e75b6&style=flat)  
+
 <img src="./banner.png" width="100%">
 
 # 👋 Hi, I'm Salem Hassani
