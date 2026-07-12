@@ -14,7 +14,7 @@
 <a href="https://github.com/salem228h">
   <img src="https://img.shields.io/badge/GitHub-salem228h-black?style=for-the-badge">
 </a>
-![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=0e75b6&style=flat)  
+
 </div>
 
 ---
