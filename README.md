@@ -11,7 +11,7 @@
 <a href="https://salem228h.github.io/salem-hassani-portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge">
 </a>
-![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=0e75b6&style=flat) 
+
 <a href="https://github.com/salem228h">
   <img src="https://img.shields.io/badge/GitHub-salem228h-black?style=for-the-badge">
 </a>
@@ -19,7 +19,7 @@
 </div>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=0e75b6&style=flat) 
 ## 👨‍💻 About Me
 
 I'm an IT professional based in Quebec, currently seeking an **entry-level IT Support role** while continuing to build my skills in cybersecurity. I recently completed my **AEC in Cybersecurity at Dawson College**, and I bring hands-on experience with system administration, networking, and troubleshooting — with a growing specialization in defensive security.
