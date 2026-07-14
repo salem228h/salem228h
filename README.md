@@ -22,7 +22,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=0e75b6&style=flat) 
 ## 👨‍💻 About Me
 
-I'm an IT professional based in Quebec, currently seeking an **entry-level IT Support role** while continuing to build my skills in cybersecurity. I recently completed my **AEC in Cybersecurity at Dawson College**, and I bring hands-on experience with system administration, networking, and troubleshooting — with a growing specialization in defensive security.
+I'm an IT professional based in Montreal, currently seeking an **entry-level IT Support role** while continuing to build my skills in cybersecurity. I recently completed my **AEC in Cybersecurity at Dawson College**, and I bring hands-on experience with system administration, networking, and troubleshooting — with a growing specialization in defensive security.
 
 **Current focus:**
 - 🖥️ IT Support & System Administration
