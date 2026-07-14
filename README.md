@@ -6,7 +6,7 @@
 
 ### 💻 IT Support Specialist | Aspiring Cybersecurity Professional
 
-🇨🇦 Quebec, Canada
+🇨🇦 Montreal, Canada
 
 <a href="https://salem228h.github.io/salem-hassani-portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge">
