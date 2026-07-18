@@ -2,96 +2,250 @@
 
 <img src="./banner.png" width="100%">
 
-# 👋 Hi, I'm Salem Hassani
+# 👋 Hi, I'm Mohammad Salem Hassani
 
-### 💻 IT Support Specialist | Aspiring Cybersecurity Professional
+### 💻 IT Support | System Administration | Microsoft 365 | Active Directory | Cybersecurity
 
-🇨🇦 Montreal, Canada
+🇨🇦 Montreal, Quebec, Canada
 
 <a href="https://salem228h.github.io/salem-hassani-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge">
 </a>
 
 <a href="https://github.com/salem228h">
-  <img src="https://img.shields.io/badge/GitHub-salem228h-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/GitHub-salem228h-black?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 </div>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=0e75b6&style=flat) 
-## 👨‍💻 About Me
 
-I'm an IT professional based in Montreal, currently seeking an **entry-level IT Support role** while continuing to build my skills in cybersecurity. I recently completed my **AEC in Cybersecurity at Dawson College**, and I bring hands-on experience with system administration, networking, and troubleshooting — with a growing specialization in defensive security.
+![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=0e75b6)
 
-**Current focus:**
-- 🖥️ IT Support & System Administration
-- 🌐 Networking Fundamentals
-- 🔐 Security Monitoring (SOC basics)
-- 🛡️ Defensive Security & Vulnerability Assessment
+# 👨‍💻 About Me
+
+I'm an IT Support and Cybersecurity professional based in Montreal.
+
+I recently completed my **AEC in Cybersecurity at Dawson College** and I'm currently expanding my enterprise IT skills through hands-on projects focused on Windows administration, Microsoft 365, Active Directory, and endpoint management.
+
+My goal is to build secure, reliable, and well-documented enterprise IT environments while preparing for roles in:
+
+- IT Support
+- Desktop Support
+- System Administration
+- Cybersecurity
+- SOC Analyst
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Enterprise IT Projects
 
-### 🛡️ Enterprise Cybersecurity Lab
-A complete home-lab security environment built to practice enterprise-style network defense:
-- OPNsense Firewall
-- VLAN Network Segmentation
-- Active Directory & Windows Server
-- Linux Servers
-- Wazuh SIEM Monitoring
+## 🖥️ Enterprise Windows Administration Lab
 
-**Skills demonstrated:** Firewall Management • Network Security • Access Control • Security Monitoring
+Enterprise Windows workstation deployment and administration.
 
-### 🔎 Vulnerability Assessment Lab
-A testing environment for practicing security assessment workflows:
+**Skills**
+
+- Windows 11
+- Windows Security
+- Windows Services
+- Disk Management
+- Event Viewer
+- Performance Monitor
+- Troubleshooting
+- Networking
+
+---
+
+## 🏢 Active Directory Enterprise Lab
+
+Complete enterprise Active Directory infrastructure.
+
+**Skills**
+
+- Windows Server
+- Active Directory
+- Domain Controller
+- OU Design
+- User Management
+- Security Groups
+- Group Policy
+- File Sharing
+- NTFS Permissions
+
+---
+
+## 📦 Software Deployment & Asset Management
+
+Enterprise software deployment and inventory management.
+
+**Skills**
+
+- PDQ Deploy
+- Software Deployment
+- Patch Management
+- Asset Inventory
+- Hardware Inventory
+
+---
+
+## ☁️ Microsoft 365 Administration Lab
+
+Microsoft cloud administration.
+
+**Skills**
+
+- Microsoft 365
+- Exchange Online
+- Teams
+- OneDrive
+- Microsoft Entra ID
+- MFA
+- User Management
+
+---
+
+## 💻 Modern Endpoint Management
+
+Enterprise endpoint administration.
+
+**Skills**
+
+- Microsoft Intune
+- Device Enrollment
+- Compliance Policies
+- Configuration Profiles
+- Windows Autopilot
+
+---
+
+## 🎫 Enterprise Help Desk Lab
+
+Real-world IT support scenarios.
+
+**Skills**
+
+- Incident Response
+- Ticket Resolution
+- Hardware Troubleshooting
+- Printer Support
+- Outlook Support
+- VPN Troubleshooting
+- Network Troubleshooting
+
+---
+
+## 🔐 Enterprise Cybersecurity Lab
+
+Enterprise defensive security lab.
+
+**Skills**
+
+- OPNsense
+- VLAN
+- Wazuh SIEM
+- Windows Server
+- Linux
+- Firewall
+- Security Monitoring
+
+---
+
+## 🔎 Vulnerability Assessment Lab
+
+Security testing environment.
+
+**Skills**
+
 - Kali Linux
 - Nmap
 - BloodHound
-- Vulnerability Scanning & Analysis
+- Vulnerability Assessment
+- Enumeration
+- Security Analysis
 
 ---
 
-## 🧰 Technical Skills
+# 🛠 Technical Skills
 
-**IT Support & Systems**
-![Windows Server](https://img.shields.io/badge/Windows%20Server-blue)
-![Linux](https://img.shields.io/badge/Linux-black)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-darkblue)
-![Networking](https://img.shields.io/badge/Networking-teal)
+## Operating Systems
 
-**Cybersecurity**
-![SOC](https://img.shields.io/badge/SOC%20Monitoring-blue)
-![SIEM](https://img.shields.io/badge/SIEM-Wazuh-red)
-![Network Security](https://img.shields.io/badge/Network-Security-green)
+- Windows 11
+- Windows Server
+- Linux
 
-**Tools**
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-black)
-![OPNsense](https://img.shields.io/badge/OPNsense-orange)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![Python](https://img.shields.io/badge/Python-yellow)
+## System Administration
+
+- Active Directory
+- Group Policy
+- Microsoft 365
+- Microsoft Entra ID
+- Microsoft Intune
+- File Services
+
+## Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- VLAN
+- VPN
+- OPNsense
+
+## Security
+
+- SIEM
+- Wazuh
+- Vulnerability Assessment
+- Security Monitoring
+- Network Security
+
+## Tools
+
+- VMware
+- VirtualBox
+- Docker
+- PowerShell
+- Git
+- Python
 
 ---
 
-## 🎓 Education & Certifications
+# 🎓 Education
 
-- 🎓 AEC Cybersecurity — Dawson College (Completed)
-- 🏆 Google Cybersecurity Certificate
-- 🔐 TryHackMe Labs
+- AEC Cybersecurity — Dawson College
+- Google Cybersecurity Professional Certificate
 
 ---
 
-## 📊 GitHub Statistics
+# 📂 Portfolio
+
+🌐 Website
+
+https://salem228h.github.io/salem-hassani-portfolio/
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=salem228h&show_icons=true&theme=github_dark">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=salem228h&theme=github-dark">
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 📫 Connect With Me
 
-🌍 **Portfolio:** [salem228h.github.io/salem-hassani-portfolio](https://salem228h.github.io/salem-hassani-portfolio/)
-💻 **GitHub:** [github.com/salem228h](https://github.com/salem228h)
+- LinkedIn
+- GitHub
+- Portfolio Website
+
+Always open to collaborating on IT Support, System Administration, Microsoft 365 and Cybersecurity projects.
