@@ -145,7 +145,9 @@ Enterprise Windows administration environment.
 
 Windows Administration • Troubleshooting • Networking
 
-🚧 Coming Soon
+🔗 **Repository**
+
+👉 https://github.com/salem228h/Enterprise-Windows-Administration-Lab
 
 </td>
 
@@ -171,7 +173,9 @@ Enterprise Active Directory infrastructure.
 
 Identity Management • Group Policy • Domain Administration
 
-🚧 Coming Soon
+🔗 **Repository**
+
+👉 https://github.com/salem228h/Active-Directory-Enterprise-Lab
 
 </td>
 
@@ -191,7 +195,10 @@ Enterprise software deployment.
 
 Software Deployment • Inventory • Endpoint Support
 
-🚧 Coming Soon
+
+🔗 **Repository**
+
+👉 https://github.com/salem228h/Software-Deployment-Lab
 
 </td>
 
@@ -216,7 +223,9 @@ Microsoft cloud administration.
 
 Cloud Administration • Identity • MFA
 
-🚧 Coming Soon
+🔗 **Repository**
+
+👉 https://github.com/salem228h/Microsoft365-Administration-Lab
 
 </td>
 
@@ -236,7 +245,9 @@ Enterprise endpoint management.
 
 Endpoint Management • Intune • Device Management
 
-🚧 Coming Soon
+🔗 **Repository**
+
+👉 https://github.com/salem228h/Modern-Endpoint-Management
 
 </td>
 
@@ -261,8 +272,9 @@ Real-world IT support scenarios.
 ### Skills
 
 Technical Support • Incident Management • Troubleshooting
+🔗 **Repository**
 
-🚧 Coming Soon
+👉 https://github.com/salem228h/Enterprise-HelpDesk-Lab
 
 </td>
 
