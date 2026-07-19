@@ -1,163 +1,170 @@
-<div align="center">
+# 🚀 Enterprise Projects
 
-<img src="./banner.png" width="100%">
+<table>
+<tr>
+<td width="50%">
 
-# 👋 Hi, I'm Mohammad Salem Hassani
+## 🖥️ Enterprise Windows Administration Lab
 
-### 💻 IT Support | System Administration | Microsoft 365 | Active Directory | Cybersecurity
+Enterprise Windows workstation deployment and administration.
 
-📍 Montreal, Quebec, Canada
+**Skills**
 
-<a href="https://salem228h.github.io/salem-hassani-portfolio/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge">
-</a>
-
-<a href="https://github.com/salem228h">
-<img src="https://img.shields.io/badge/GitHub-salem228h-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-</div>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=0e75b6)
-
-# 👨‍💻 About Me
-
-I'm an IT Support and Cybersecurity professional based in Montreal, Canada.
-
-I recently completed an **AEC in Cybersecurity at Dawson College** and am expanding my enterprise IT skills through hands-on labs and real-world projects.
-
-My focus areas include:
-
-- Windows 11 Administration
-- Windows Server
-- Active Directory
-- Microsoft 365
-- Microsoft Entra ID
-- Microsoft Intune
-- Enterprise Networking
-- Endpoint Management
-- Cybersecurity
-
-I'm currently building enterprise-level labs to prepare for IT Support, Desktop Support, System Administrator, and Cybersecurity roles.
-
----
-
-# 🚀 Enterprise IT Projects
-
-| Project | Description |
-|---------|-------------|
-| 🖥️ Enterprise Windows Workstation | Windows deployment, configuration, security, troubleshooting |
-| 🏢 Active Directory Enterprise Lab | Domain Controller, OU, GPO, DNS, DHCP |
-| 📦 Software Deployment & Asset Management | PDQ Deploy, Patch Management, Asset Inventory |
-| ☁️ Microsoft 365 Administration Lab | Exchange Online, Teams, MFA, User Management |
-| 💻 Modern Endpoint Management | Intune, Autopilot, Compliance Policies |
-| 🎫 Enterprise Help Desk Lab | Real-world IT support scenarios and ticket resolution |
-| 🔐 Enterprise Cybersecurity Lab | OPNsense, VLAN, Wazuh SIEM, Firewall |
-| 🔎 Vulnerability Assessment Lab | Kali Linux, Nmap, BloodHound, Security Analysis |
-
----
-
-# 🛠 Technical Skills
-
-## Operating Systems
-
-- Windows 11 Enterprise
-- Windows Server
-- Linux
-
-## Microsoft Technologies
-
-- Active Directory
-- Group Policy
-- Microsoft 365
-- Microsoft Entra ID
-- Microsoft Intune
-- Exchange Online
-- OneDrive
-- Teams
-
-## Networking
-
-- TCP/IP
-- DNS
-- DHCP
-- VLAN
-- VPN
-- OPNsense Firewall
-
-## Security
-
-- Wazuh SIEM
-- Security Monitoring
-- Vulnerability Assessment
+- Windows 11
 - Windows Security
-- Network Security
+- Event Viewer
+- Performance Monitor
+- Disk Management
+- Networking
 
-## Tools
+🔗 **Repository**
 
-- VMware Workstation
-- VirtualBox
-- Docker
-- PowerShell
-- Git
-- Python
+👉 https://github.com/salem228h/Enterprise-Windows-Administration-Lab
 
----
+</td>
 
-# 📂 Featured Repositories
+<td width="50%">
 
-| Repository | Status |
-|------------|--------|
-| Enterprise-Windows-Workstation | 🚧 In Progress |
-| Active-Directory-Enterprise-Lab | 📅 Planned |
-| Software-Deployment-Asset-Management | 📅 Planned |
-| Microsoft-365-Administration-Lab | 📅 Planned |
-| Modern-Endpoint-Management | 📅 Planned |
-| Enterprise-Help-Desk-Lab | 📅 Planned |
-| Enterprise-Cybersecurity-Lab | ✅ Completed |
-| Vulnerability-Assessment-Lab | ✅ Completed |
+## 🏢 Active Directory Enterprise Lab
 
----
+Enterprise Active Directory infrastructure.
 
-# 🎓 Education
+**Skills**
 
-- 🎓 AEC in Cybersecurity — Dawson College
-- 🎓 Google Cybersecurity Professional Certificate
+- Active Directory
+- Windows Server
+- Group Policy
+- OU
+- Users & Groups
+- File Sharing
 
----
+🔗 **Repository**
 
-# 🌐 Portfolio
+👉 https://github.com/salem228h/Active-Directory-Enterprise-Lab
 
-**Website**
+</td>
+</tr>
 
-https://salem228h.github.io/salem-hassani-portfolio/
+<tr>
+<td width="50%">
 
----
+## 📦 Software Deployment & Asset Management
 
-# 📈 GitHub Statistics
+Enterprise software deployment.
 
-<div align="center">
+**Skills**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=salem228h&show_icons=true&theme=github_dark">
+- PDQ Deploy
+- Patch Management
+- Asset Inventory
+- Software Deployment
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=salem228h&theme=github-dark">
+🔗 **Repository**
 
-</div>
+👉 https://github.com/salem228h/Software-Deployment-Lab
 
----
+</td>
 
-# 📫 Connect With Me
+<td width="50%">
 
-- 💼 LinkedIn
-- 💻 GitHub
-- 🌐 Portfolio Website
+## ☁️ Microsoft 365 Administration Lab
 
----
+Microsoft 365 enterprise administration.
 
-⭐ I enjoy building enterprise IT environments, documenting projects, and continuously improving my technical skills through hands-on practice.
+**Skills**
+
+- Microsoft 365
+- Exchange Online
+- Teams
+- Entra ID
+- MFA
+
+🔗 **Repository**
+
+👉 https://github.com/salem228h/Microsoft365-Administration-Lab
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 💻 Modern Endpoint Management
+
+Enterprise endpoint management.
+
+**Skills**
+
+- Microsoft Intune
+- Device Enrollment
+- Compliance Policies
+- Windows Autopilot
+
+🔗 **Repository**
+
+👉 https://github.com/salem228h/Modern-Endpoint-Management
+
+</td>
+
+<td width="50%">
+
+## 🎫 Enterprise Help Desk Lab
+
+Real-world IT support scenarios.
+
+**Skills**
+
+- Troubleshooting
+- Ticket Resolution
+- Printer Support
+- VPN
+- Outlook
+
+🔗 **Repository**
+
+👉 https://github.com/salem228h/Enterprise-HelpDesk-Lab
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🔐 Enterprise Cybersecurity Lab
+
+Enterprise security infrastructure.
+
+**Skills**
+
+- OPNsense
+- Wazuh
+- VLAN
+- Firewall
+- Security Monitoring
+
+🔗 **Repository**
+
+👉 https://github.com/salem228h/Enterprise-Cybersecurity-Lab
+
+</td>
+
+<td width="50%">
+
+## 🔎 Vulnerability Assessment Lab
+
+Security testing environment.
+
+**Skills**
+
+- Kali Linux
+- Nmap
+- BloodHound
+- Vulnerability Assessment
+
+🔗 **Repository**
+
+👉 https://github.com/salem228h/Vulnerability-Assessment-Lab
+
+</td>
+</tr>
+</table>
