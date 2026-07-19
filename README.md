@@ -6,14 +6,14 @@
 
 ### 💻 IT Support | System Administration | Microsoft 365 | Active Directory | Cybersecurity
 
-🇨🇦 Montreal, Quebec, Canada
+📍 Montreal, Quebec, Canada
 
 <a href="https://salem228h.github.io/salem-hassani-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge">
 </a>
 
 <a href="https://github.com/salem228h">
-<img src="https://img.shields.io/badge/GitHub-salem228h-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/GitHub-salem228h-black?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
@@ -28,145 +28,38 @@
 
 # 👨‍💻 About Me
 
-I'm an IT Support and Cybersecurity professional based in Montreal.
+I'm an IT Support and Cybersecurity professional based in Montreal, Canada.
 
-I recently completed my **AEC in Cybersecurity at Dawson College** and I'm currently expanding my enterprise IT skills through hands-on projects focused on Windows administration, Microsoft 365, Active Directory, and endpoint management.
+I recently completed an **AEC in Cybersecurity at Dawson College** and am expanding my enterprise IT skills through hands-on labs and real-world projects.
 
-My goal is to build secure, reliable, and well-documented enterprise IT environments while preparing for roles in:
+My focus areas include:
 
-- IT Support
-- Desktop Support
-- System Administration
+- Windows 11 Administration
+- Windows Server
+- Active Directory
+- Microsoft 365
+- Microsoft Entra ID
+- Microsoft Intune
+- Enterprise Networking
+- Endpoint Management
 - Cybersecurity
-- SOC Analyst
+
+I'm currently building enterprise-level labs to prepare for IT Support, Desktop Support, System Administrator, and Cybersecurity roles.
 
 ---
 
 # 🚀 Enterprise IT Projects
 
-## 🖥️ Enterprise Windows Administration Lab
-
-Enterprise Windows workstation deployment and administration.
-
-**Skills**
-
-- Windows 11
-- Windows Security
-- Windows Services
-- Disk Management
-- Event Viewer
-- Performance Monitor
-- Troubleshooting
-- Networking
-
----
-
-## 🏢 Active Directory Enterprise Lab
-
-Complete enterprise Active Directory infrastructure.
-
-**Skills**
-
-- Windows Server
-- Active Directory
-- Domain Controller
-- OU Design
-- User Management
-- Security Groups
-- Group Policy
-- File Sharing
-- NTFS Permissions
-
----
-
-## 📦 Software Deployment & Asset Management
-
-Enterprise software deployment and inventory management.
-
-**Skills**
-
-- PDQ Deploy
-- Software Deployment
-- Patch Management
-- Asset Inventory
-- Hardware Inventory
-
----
-
-## ☁️ Microsoft 365 Administration Lab
-
-Microsoft cloud administration.
-
-**Skills**
-
-- Microsoft 365
-- Exchange Online
-- Teams
-- OneDrive
-- Microsoft Entra ID
-- MFA
-- User Management
-
----
-
-## 💻 Modern Endpoint Management
-
-Enterprise endpoint administration.
-
-**Skills**
-
-- Microsoft Intune
-- Device Enrollment
-- Compliance Policies
-- Configuration Profiles
-- Windows Autopilot
-
----
-
-## 🎫 Enterprise Help Desk Lab
-
-Real-world IT support scenarios.
-
-**Skills**
-
-- Incident Response
-- Ticket Resolution
-- Hardware Troubleshooting
-- Printer Support
-- Outlook Support
-- VPN Troubleshooting
-- Network Troubleshooting
-
----
-
-## 🔐 Enterprise Cybersecurity Lab
-
-Enterprise defensive security lab.
-
-**Skills**
-
-- OPNsense
-- VLAN
-- Wazuh SIEM
-- Windows Server
-- Linux
-- Firewall
-- Security Monitoring
-
----
-
-## 🔎 Vulnerability Assessment Lab
-
-Security testing environment.
-
-**Skills**
-
-- Kali Linux
-- Nmap
-- BloodHound
-- Vulnerability Assessment
-- Enumeration
-- Security Analysis
+| Project | Description |
+|---------|-------------|
+| 🖥️ Enterprise Windows Workstation | Windows deployment, configuration, security, troubleshooting |
+| 🏢 Active Directory Enterprise Lab | Domain Controller, OU, GPO, DNS, DHCP |
+| 📦 Software Deployment & Asset Management | PDQ Deploy, Patch Management, Asset Inventory |
+| ☁️ Microsoft 365 Administration Lab | Exchange Online, Teams, MFA, User Management |
+| 💻 Modern Endpoint Management | Intune, Autopilot, Compliance Policies |
+| 🎫 Enterprise Help Desk Lab | Real-world IT support scenarios and ticket resolution |
+| 🔐 Enterprise Cybersecurity Lab | OPNsense, VLAN, Wazuh SIEM, Firewall |
+| 🔎 Vulnerability Assessment Lab | Kali Linux, Nmap, BloodHound, Security Analysis |
 
 ---
 
@@ -174,18 +67,20 @@ Security testing environment.
 
 ## Operating Systems
 
-- Windows 11
+- Windows 11 Enterprise
 - Windows Server
 - Linux
 
-## System Administration
+## Microsoft Technologies
 
 - Active Directory
 - Group Policy
 - Microsoft 365
 - Microsoft Entra ID
 - Microsoft Intune
-- File Services
+- Exchange Online
+- OneDrive
+- Teams
 
 ## Networking
 
@@ -194,19 +89,19 @@ Security testing environment.
 - DHCP
 - VLAN
 - VPN
-- OPNsense
+- OPNsense Firewall
 
 ## Security
 
-- SIEM
-- Wazuh
-- Vulnerability Assessment
+- Wazuh SIEM
 - Security Monitoring
+- Vulnerability Assessment
+- Windows Security
 - Network Security
 
 ## Tools
 
-- VMware
+- VMware Workstation
 - VirtualBox
 - Docker
 - PowerShell
@@ -215,16 +110,31 @@ Security testing environment.
 
 ---
 
-# 🎓 Education
+# 📂 Featured Repositories
 
-- AEC Cybersecurity — Dawson College
-- Google Cybersecurity Professional Certificate
+| Repository | Status |
+|------------|--------|
+| Enterprise-Windows-Workstation | 🚧 In Progress |
+| Active-Directory-Enterprise-Lab | 📅 Planned |
+| Software-Deployment-Asset-Management | 📅 Planned |
+| Microsoft-365-Administration-Lab | 📅 Planned |
+| Modern-Endpoint-Management | 📅 Planned |
+| Enterprise-Help-Desk-Lab | 📅 Planned |
+| Enterprise-Cybersecurity-Lab | ✅ Completed |
+| Vulnerability-Assessment-Lab | ✅ Completed |
 
 ---
 
-# 📂 Portfolio
+# 🎓 Education
 
-🌐 Website
+- 🎓 AEC in Cybersecurity — Dawson College
+- 🎓 Google Cybersecurity Professional Certificate
+
+---
+
+# 🌐 Portfolio
+
+**Website**
 
 https://salem228h.github.io/salem-hassani-portfolio/
 
@@ -234,9 +144,9 @@ https://salem228h.github.io/salem-hassani-portfolio/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salem228h&show_icons=true&theme=github_dark">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=salem228h&show_icons=true&theme=github_dark">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salem228h&theme=github-dark">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=salem228h&theme=github-dark">
 
 </div>
 
@@ -244,8 +154,10 @@ https://salem228h.github.io/salem-hassani-portfolio/
 
 # 📫 Connect With Me
 
-- LinkedIn
-- GitHub
-- Portfolio Website
+- 💼 LinkedIn
+- 💻 GitHub
+- 🌐 Portfolio Website
 
-Always open to collaborating on IT Support, System Administration, Microsoft 365 and Cybersecurity projects.
+---
+
+⭐ I enjoy building enterprise IT environments, documenting projects, and continuously improving my technical skills through hands-on practice.
