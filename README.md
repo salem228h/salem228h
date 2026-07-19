@@ -1,26 +1,76 @@
+<div align="center">
+
+<img src="./banner.png" width="100%">
+
+# 👋 Hi, I'm Mohammad Salem Hassani
+
+### 💻 IT Support | System Administration | Microsoft 365 | Active Directory | Cybersecurity
+
+🇨🇦 Montreal, Quebec, Canada
+
+<a href="https://salem228h.github.io/salem-hassani-portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/salem228h">
+<img src="https://img.shields.io/badge/GitHub-salem228h-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</div>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=0e75b6)
+
+# 👨‍💻 About Me
+
+I'm an IT professional based in **Montreal, Quebec**, passionate about building secure and reliable enterprise IT environments.
+
+I completed an **AEC in Cybersecurity at Dawson College** and hold a **Bachelor's Degree in Computer Science** from Kabul Polytechnic University, with a **Comparative Evaluation of Studies** issued by the Government of Quebec (MIFI).
+
+I enjoy designing enterprise lab environments, solving technical problems, improving IT operations, and continuously expanding my skills in Microsoft technologies and cybersecurity.
+
+### 🎯 Career Interests
+
+- IT Support
+- Help Desk
+- Desktop Support
+- System Administration
+- Microsoft 365 Administration
+- Active Directory Administration
+- Cybersecurity
+- SOC Analyst
+
+---
+
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-## 🛡️ Enterprise Security Lab ⭐
+## 🛡 Enterprise Security Lab
 
-Enterprise network security environment simulating a real corporate infrastructure.
+Enterprise network security environment.
 
-**Highlights**
+### Technologies
 
-- OPNsense Firewall
-- VLAN Segmentation
-- Active Directory
+- OPNsense
 - Windows Server
-- Linux Servers
-- Security Hardening
+- Active Directory
+- VLAN
+- Linux
+- Firewall
 
-**Skills**
+### Skills
 
-Firewall • Network Security • Windows Server • Active Directory • VLAN • Documentation
+Enterprise Networking • Security Hardening • Firewall • Active Directory • Documentation
 
 🔗 **Repository**
 
@@ -30,22 +80,20 @@ https://github.com/salem228h/enterprise-security-lab
 
 <td width="50%" valign="top">
 
-## 🏆 NordForge Capstone ⭐
+## 🏆 NordForge Capstone
 
-Complete enterprise cybersecurity capstone project.
+Enterprise cybersecurity capstone project.
 
-**Highlights**
+### Technologies
 
 - Risk Assessment
 - Asset Inventory
-- Vulnerability Assessment
 - Security Policies
-- Compliance
-- Documentation
+- Vulnerability Assessment
 
-**Skills**
+### Skills
 
-Cybersecurity • Risk Management • Documentation • Enterprise Security
+Cybersecurity • Documentation • Compliance • Risk Management
 
 🔗 **Repository**
 
@@ -61,19 +109,18 @@ https://github.com/salem228h/nordforge-capstone
 
 ## 📊 Wazuh SIEM & XDR
 
-Enterprise security monitoring lab.
+Security monitoring platform.
 
-**Highlights**
+### Technologies
 
 - Wazuh
 - SIEM
-- Log Analysis
+- Linux
 - Detection Rules
-- Security Monitoring
 
-**Skills**
+### Skills
 
-SIEM • XDR • Linux • SOC • Incident Detection
+SOC • Security Monitoring • Log Analysis • Incident Detection
 
 🔗 **Repository**
 
@@ -83,22 +130,22 @@ https://github.com/salem228h/wazuh-siem-xdr
 
 <td width="50%" valign="top">
 
-## 🖥️ Enterprise Windows Administration Lab
+## 🖥 Enterprise Windows Administration Lab
 
-Enterprise Windows workstation deployment and administration.
+Enterprise Windows administration environment.
 
-**Skills**
+### Technologies
 
 - Windows 11
 - Windows Security
 - Windows Services
-- Disk Management
 - Event Viewer
-- Troubleshooting
 
-🔗 **Repository**
+### Skills
 
-Coming Soon
+Windows Administration • Troubleshooting • Networking
+
+🚧 Coming Soon
 
 </td>
 
@@ -112,38 +159,39 @@ Coming Soon
 
 Enterprise Active Directory infrastructure.
 
-**Skills**
+### Technologies
 
-- Active Directory
 - Windows Server
-- Domain Controller
-- OU
-- Users
-- Groups
+- Active Directory
 - Group Policy
+- DNS
+- DHCP
 
-🔗 **Repository**
+### Skills
 
-Coming Soon
+Identity Management • Group Policy • Domain Administration
+
+🚧 Coming Soon
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📦 Software Deployment & Asset Management
+## 📦 Software Deployment Lab
 
 Enterprise software deployment.
 
-**Skills**
+### Technologies
 
 - PDQ Deploy
 - Patch Management
-- Inventory
-- Software Deployment
+- Asset Inventory
 
-🔗 **Repository**
+### Skills
 
-Coming Soon
+Software Deployment • Inventory • Endpoint Support
+
+🚧 Coming Soon
 
 </td>
 
@@ -153,21 +201,22 @@ Coming Soon
 
 <td width="50%" valign="top">
 
-## ☁️ Microsoft 365 Administration Lab
+## ☁ Microsoft 365 Administration Lab
 
-Enterprise Microsoft 365 administration.
+Microsoft cloud administration.
 
-**Skills**
+### Technologies
 
 - Microsoft 365
 - Entra ID
 - Exchange Online
 - Teams
-- MFA
 
-🔗 **Repository**
+### Skills
 
-Coming Soon
+Cloud Administration • Identity • MFA
+
+🚧 Coming Soon
 
 </td>
 
@@ -177,16 +226,17 @@ Coming Soon
 
 Enterprise endpoint management.
 
-**Skills**
+### Technologies
 
 - Microsoft Intune
-- Autopilot
+- Windows Autopilot
 - Compliance Policies
-- Configuration Profiles
 
-🔗 **Repository**
+### Skills
 
-Coming Soon
+Endpoint Management • Intune • Device Management
+
+🚧 Coming Soon
 
 </td>
 
@@ -198,43 +248,159 @@ Coming Soon
 
 ## 🎫 Enterprise Help Desk Lab
 
-Real-world enterprise troubleshooting scenarios.
+Real-world IT support scenarios.
 
-**Skills**
+### Technologies
 
-- Ticket Resolution
-- Hardware Support
+- Windows
 - Outlook
 - VPN
-- Printer
+- Printers
 - Networking
 
-🔗 **Repository**
+### Skills
 
-Coming Soon
+Technical Support • Incident Management • Troubleshooting
+
+🚧 Coming Soon
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🔎 Vulnerability Assessment Lab
+## 🔍 Vulnerability Assessment Lab
 
-Enterprise vulnerability assessment environment.
+Enterprise vulnerability assessment.
 
-**Skills**
+### Technologies
 
 - Kali Linux
 - Nmap
 - BloodHound
-- Enumeration
-- Vulnerability Assessment
 
-🔗 **Repository**
+### Skills
 
-Coming Soon
+Security Assessment • Enumeration • Vulnerability Analysis
+
+🚧 Coming Soon
 
 </td>
 
 </tr>
 
 </table>
+
+---
+
+# 🛠 Technical Skills
+
+### Operating Systems
+
+- Windows 11
+- Windows Server
+- Linux
+
+### System Administration
+
+- Active Directory
+- Group Policy
+- Microsoft 365
+- Microsoft Entra ID
+- Microsoft Intune
+- File Services
+- Windows Administration
+
+### Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- VLAN
+- VPN
+- OPNsense
+
+### Cybersecurity
+
+- Wazuh SIEM
+- Security Monitoring
+- Vulnerability Assessment
+- Network Security
+- Firewall Management
+
+### Tools
+
+- VMware
+- VirtualBox
+- Docker
+- Git
+- PowerShell
+- Python
+
+---
+
+# 🎓 Education
+
+## AEC in Cybersecurity
+
+**Dawson College**  
+Montreal, Quebec, Canada
+
+---
+
+## Bachelor of Computer Science
+
+**Kabul Polytechnic University**  
+Kabul, Afghanistan
+
+**Comparative Evaluation of Studies**
+Ministry of Immigration, Francisation and Integration (MIFI), Quebec
+
+---
+
+# 📜 Certifications
+
+- Google Cybersecurity Professional Certificate
+- TryHackMe Practical Labs
+- IT Support Technical Skills Bootcamp *(In Progress)*
+- CompTIA Network+ *(In Progress)*
+- CompTIA Security+ *(In Progress)*
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=salem228h&show_icons=true&theme=github_dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salem228h&theme=github-dark"/>
+
+</div>
+
+---
+
+# 🌐 Portfolio
+
+### Website
+
+https://salem228h.github.io/salem-hassani-portfolio/
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn
+- 🌐 Portfolio
+- 💻 GitHub
+
+I'm always interested in collaborating on projects related to:
+
+- IT Support
+- Microsoft 365
+- Windows Server
+- Active Directory
+- System Administration
+- Enterprise Networking
+- Cybersecurity
+
+⭐ Thanks for visiting my GitHub profile!
