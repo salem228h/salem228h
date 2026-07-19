@@ -81,19 +81,18 @@ Enterprise Networking • Security Hardening • Firewall • Active Directory �
 <td width="50%" valign="top">
 
 ## 🏆 NordForge Capstone
+Enterprise cybersecurity program — 4 stages, 8 VMs.
 
-Enterprise cybersecurity capstone project.
+Technologies
+- Risk Assessment & CVSS Triage
+- Network Hardening (OPNsense · AD · Linux)
+- Penetration Testing (Metasploit · Burp Suite · hashcat)
+- Incident Response & SIEM Tuning (Wazuh · Suricata)
 
-### Technologies
-
-- Risk Assessment
-- Asset Inventory
-- Security Policies
-- Vulnerability Assessment
-
-### Skills
-
-Cybersecurity • Documentation • Compliance • Risk Management
+Skills
+Penetration Testing • Incident Response • SIEM Tuning •
+Active Directory • Network Segmentation • Risk Management •
+MITRE ATT&CK • NIST 800-30 • Documentation
 
 🔗 **Repository**
 
