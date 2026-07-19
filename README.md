@@ -1,177 +1,240 @@
-# 🚀 Enterprise IT Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🖥️ Enterprise Windows Administration Lab
+## 🛡️ Enterprise Security Lab ⭐
+
+Enterprise network security environment simulating a real corporate infrastructure.
+
+**Highlights**
+
+- OPNsense Firewall
+- VLAN Segmentation
+- Active Directory
+- Windows Server
+- Linux Servers
+- Security Hardening
+
+**Skills**
+
+Firewall • Network Security • Windows Server • Active Directory • VLAN • Documentation
+
+🔗 **Repository**
+
+https://github.com/salem228h/enterprise-security-lab
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏆 NordForge Capstone ⭐
+
+Complete enterprise cybersecurity capstone project.
+
+**Highlights**
+
+- Risk Assessment
+- Asset Inventory
+- Vulnerability Assessment
+- Security Policies
+- Compliance
+- Documentation
+
+**Skills**
+
+Cybersecurity • Risk Management • Documentation • Enterprise Security
+
+🔗 **Repository**
+
+https://github.com/salem228h/nordforge-capstone
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📊 Wazuh SIEM & XDR
+
+Enterprise security monitoring lab.
+
+**Highlights**
+
+- Wazuh
+- SIEM
+- Log Analysis
+- Detection Rules
+- Security Monitoring
+
+**Skills**
+
+SIEM • XDR • Linux • SOC • Incident Detection
+
+🔗 **Repository**
+
+https://github.com/salem228h/wazuh-siem-xdr
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🖥️ Enterprise Windows Administration Lab
 
 Enterprise Windows workstation deployment and administration.
 
 **Skills**
+
 - Windows 11
 - Windows Security
 - Windows Services
 - Disk Management
 - Event Viewer
-- Performance Monitor
 - Troubleshooting
+
+🔗 **Repository**
+
+Coming Soon
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏢 Active Directory Enterprise Lab
+
+Enterprise Active Directory infrastructure.
+
+**Skills**
+
+- Active Directory
+- Windows Server
+- Domain Controller
+- OU
+- Users
+- Groups
+- Group Policy
+
+🔗 **Repository**
+
+Coming Soon
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📦 Software Deployment & Asset Management
+
+Enterprise software deployment.
+
+**Skills**
+
+- PDQ Deploy
+- Patch Management
+- Inventory
+- Software Deployment
+
+🔗 **Repository**
+
+Coming Soon
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ☁️ Microsoft 365 Administration Lab
+
+Enterprise Microsoft 365 administration.
+
+**Skills**
+
+- Microsoft 365
+- Entra ID
+- Exchange Online
+- Teams
+- MFA
+
+🔗 **Repository**
+
+Coming Soon
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💻 Modern Endpoint Management
+
+Enterprise endpoint management.
+
+**Skills**
+
+- Microsoft Intune
+- Autopilot
+- Compliance Policies
+- Configuration Profiles
+
+🔗 **Repository**
+
+Coming Soon
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎫 Enterprise Help Desk Lab
+
+Real-world enterprise troubleshooting scenarios.
+
+**Skills**
+
+- Ticket Resolution
+- Hardware Support
+- Outlook
+- VPN
+- Printer
 - Networking
 
 🔗 **Repository**
 
-[[Enterprise-Windows-Administration-Lab](https://github.com/salem228h/Enterprise-Windows-Administration-Lab)]
+Coming Soon
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏢 Active Directory Enterprise Lab
+## 🔎 Vulnerability Assessment Lab
 
-Complete enterprise Active Directory infrastructure.
-
-**Skills**
-- Windows Server
-- Active Directory
-- Domain Controller
-- OU Design
-- User Management
-- Security Groups
-- Group Policy
-- File Sharing
-- NTFS Permissions
-
-🔗 **Repository**
-
-[Active-Directory-Enterprise-Lab](https://github.com/salem228h/Active-Directory-Enterprise-Lab)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📦 Software Deployment & Asset Management
-
-Enterprise software deployment and inventory management.
+Enterprise vulnerability assessment environment.
 
 **Skills**
-- PDQ Deploy
-- Software Deployment
-- Patch Management
-- Asset Inventory
-- Hardware Inventory
 
-🔗 **Repository**
-
-[Software-Deployment-Lab](https://github.com/salem228h/Software-Deployment-Lab)
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☁️ Microsoft 365 Administration Lab
-
-Microsoft cloud administration.
-
-**Skills**
-- Microsoft 365
-- Exchange Online
-- Teams
-- OneDrive
-- Microsoft Entra ID
-- MFA
-- User Management
-
-🔗 **Repository**
-
-[Microsoft365-Administration-Lab](https://github.com/salem228h/Microsoft365-Administration-Lab)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Modern Endpoint Management
-
-Enterprise endpoint administration.
-
-**Skills**
-- Microsoft Intune
-- Device Enrollment
-- Compliance Policies
-- Configuration Profiles
-- Windows Autopilot
-
-🔗 **Repository**
-
-[Modern-Endpoint-Management-Lab](https://github.com/salem228h/Modern-Endpoint-Management-Lab)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎫 Enterprise Help Desk Lab
-
-Real-world IT support scenarios.
-
-**Skills**
-- Incident Response
-- Ticket Resolution
-- Hardware Troubleshooting
-- Printer Support
-- Outlook Support
-- VPN Troubleshooting
-- Network Troubleshooting
-
-🔗 **Repository**
-
-[Enterprise-HelpDesk-Lab](https://github.com/salem228h/Enterprise-HelpDesk-Lab)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Enterprise Cybersecurity Lab
-
-Enterprise defensive security lab.
-
-**Skills**
-- OPNsense
-- VLAN
-- Wazuh SIEM
-- Windows Server
-- Linux
-- Firewall
-- Security Monitoring
-
-🔗 **Repository**
-
-[Enterprise-Cybersecurity-Lab](https://github.com/salem228h/Enterprise-Cybersecurity-Lab)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔎 Vulnerability Assessment Lab
-
-Security testing environment.
-
-**Skills**
 - Kali Linux
 - Nmap
 - BloodHound
-- Vulnerability Assessment
 - Enumeration
-- Security Analysis
+- Vulnerability Assessment
 
 🔗 **Repository**
 
-[Vulnerability-Assessment-Lab](https://github.com/salem228h/Vulnerability-Assessment-Lab)
+Coming Soon
 
 </td>
+
 </tr>
+
 </table>
