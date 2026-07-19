@@ -97,7 +97,7 @@ Cybersecurity • Documentation • Compliance • Risk Management
 
 🔗 **Repository**
 
-https://github.com/salem228h/nordforge-capstone
+[https://github.com/salem228h/nordforge-capstone](https://github.com/salem228h/Cybersecurity-Portfolio/tree/main/projects/nordforge-capstone)
 
 </td>
 
