@@ -74,7 +74,7 @@ Enterprise Networking • Security Hardening • Firewall • Active Directory �
 
 🔗 **Repository**
 
-https://github.com/salem228h/enterprise-security-lab
+[https://github.com/salem228h/enterprise-security-lab](https://github.com/salem228h/Cybersecurity-Portfolio/tree/main/projects/enterprise-security-lab)
 
 </td>
 
@@ -124,7 +124,7 @@ SOC • Security Monitoring • Log Analysis • Incident Detection
 
 🔗 **Repository**
 
-https://github.com/salem228h/wazuh-siem-xdr
+[https://github.com/salem228h/wazuh-siem-xdr](https://github.com/salem228h/Cybersecurity-Portfolio/tree/main/projects/wazuh-siem-xdr)
 
 </td>
 
