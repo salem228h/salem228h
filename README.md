@@ -182,7 +182,7 @@ Identity Management • Group Policy • Domain Administration
 
 <td width="50%" valign="top">
 
-## 📦 Software Deployment Lab
+## 📦 Enterprise Endpoint & Asset Management
 
 Enterprise software deployment.
 
